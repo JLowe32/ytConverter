@@ -22,3 +22,9 @@ To run this project, you need the following dependencies installed:
 
 ---
 
+## To Run 
+1. Make using the makefile.
+2. Then make run.
+
+---
+
